@@ -11,3 +11,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+main {
+    width: 66vw;
+    display: flex;
+    align-items: center;
+}
