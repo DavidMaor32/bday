@@ -13,7 +13,7 @@ body {
 }
 
 main {
-    width: 66vw;
+    width: 66%;
     display: flex;
     align-items: center;
 }
